@@ -35,12 +35,6 @@ notes:
  - the original ReadMe.txt notes file has an encoding problem so the characters don't display properly. To fix, open the file in Notepad++ or rename it to ReadMe.html and open using a browser
 
 
-
-# SPS 1 and 2
-
-Once you configure your environment of choice, we can move on to building and running the SPS apps.
-All the examples require additional codecs, Gstreamer libraries, Boost and the Tbb library, so we'll demonstrate installing those
-
 ## Windows, using VS19
 
 
